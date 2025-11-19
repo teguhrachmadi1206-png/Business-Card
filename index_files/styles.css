@@ -18,3 +18,7 @@ body {
     background: #ddebf8;
     border-bottom: 6px solid #d8cefe;
 }
+
+.profile-pic {
+    border-bottom: 4px solid #d8cefe;
+}
